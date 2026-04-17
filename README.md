@@ -10,7 +10,12 @@
 
 - 💬 Ask me about backend architecture, AI systems, or DevOps workflows.
 
-- 🎯 I’m currently looking for Software Engineer, Cloud Engineer, DevOps, or AI Engineer roles.
+- 🎯 I’m currently looking for Software Engineering, Cloud Engineering, DevOps, and/or AI Engineer roles.
+- 🏆 Certifications:
+    - KCNA
+    - AWS Solutions Architect (In Progress)
+    - CKAD (In Progress)
+    - Hashicorp Certified: Terraform Associate (In Progress)
 
 -⚡ Fun fact: I am a dad and husband, I hate cheese, love very spicy food, and enjoy time with family and video games.
 
